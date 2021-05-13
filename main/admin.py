@@ -5,3 +5,4 @@ from .models import MainModel
 # Register your models here.
 
 admin.site.register(MainModel)
+
